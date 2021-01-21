@@ -5,3 +5,4 @@ const sw = Splitwise({
 })
 
 sw.getCurrentUser().then(console.log) // => { id: ... }
+//
