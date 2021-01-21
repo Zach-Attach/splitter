@@ -1,0 +1,19 @@
+{
+  "name": "splitter",
+  "version": "1.0.0",
+  "description": "a javascript cli application which takes spreadsheets and uploads them to Splitwise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zach-Attach/splitter.git"
+  },
+  "author": "Zachary Laborde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zach-Attach/splitter/issues"
+  },
+  "homepage": "https://github.com/Zach-Attach/splitter#readme"
+}
